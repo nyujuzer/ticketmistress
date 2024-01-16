@@ -1,0 +1,46 @@
+.number-spinner input {
+    border-radius: 0!important;
+    margin-bottom: 0!important;
+    padding: 3px 0!important;
+    width: 34px;
+    border: none;
+}
+
+.number-spinner span {
+    font-size: 20px;
+    color: #fff
+}
+
+.number-spinner .cart-max {
+    font-size: 10px;
+    color: #333;
+    padding: 0
+}
+
+.number-spinner button {
+    outline: none;
+    border: none;
+    position: relative;
+    background-color: var(--important-background)
+}
+
+.number-spinner .up {
+    border-radius: 0 4px 4px 0
+}
+
+.number-spinner .down {
+    border-radius: 4px 0 0 4px
+}
+.sr-only {
+    padding: 0;
+}.qty-btn {
+    position: relative
+}.text-center .sel-qty {
+    color: #000
+}
+.number-spinner input.sel-qty,div#buy-error,div.content {
+    height: 1.1rem;
+    background-color: #fff
+}
+
+button{background-color: red;}
